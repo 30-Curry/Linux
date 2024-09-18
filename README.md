@@ -1,2 +1,2 @@
 # Linux
-The path of Linux Learning
+The Journey of Learning Linux
